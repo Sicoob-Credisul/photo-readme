@@ -11,3 +11,4 @@
 <img style="" src="./assets/group_215.svg" />
 <img style="" src="./assets/footer.svg" />
 <img style="" src="./assets/separator.svg" />
+<img style="" src="./assets/separator_table.svg" />
