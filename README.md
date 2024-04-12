@@ -11,3 +11,4 @@
 <img style="" src="./assets/footer.svg" />
 <img style="" src="./assets/separator.svg" />
 <img style="" src="./assets/separator_table.svg" />
+<img style="" src="./assets/page02_investimentos.svg" />
