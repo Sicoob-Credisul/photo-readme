@@ -14,3 +14,4 @@
 <img style="" src="./assets/separator_table.svg" />
 <img style="" src="./assets/page02_investimentos.svg" />
 <img style="" src="./assets/page02_investimentos_02.svg" />
+<img style="" src="./assets/nova_foto.svg" />
